@@ -1,0 +1,5 @@
+HAK_AKSES,PERMISSION
+Member,member_create
+Member,member_delete
+Member,member_read
+Member,dashboard_menu

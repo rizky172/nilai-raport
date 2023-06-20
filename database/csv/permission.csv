@@ -1,0 +1,13 @@
+1,,purchase_order_create
+2,,purchase_order_create_draft
+3,,purchase_order_create_moderation
+4,,purchase_order_create_rejected
+5,,purchase_order_create_approved
+6,,purchase_order_detail
+7,,purchase_order_list
+8,,purchase_order_delete
+9,,invoice_create
+10,,invoice_detail
+11,,invoice_list
+12,,invoice_delete
+13,,wizard_order_create

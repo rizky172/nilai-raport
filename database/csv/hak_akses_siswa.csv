@@ -1,0 +1,6 @@
+HAK_AKSES,PERMISSION
+Student,student_create
+Student,student_read
+Student,admin_read
+Student,report_report_value_read
+Student,report_report_value_full_access

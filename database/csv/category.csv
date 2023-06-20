@@ -1,0 +1,50 @@
+ID,PARENT_ID,NAME,LABEL,NOTES,GROUP_BY,IS_DELETED,IS_DISABLED
+1,,user-activity,User Activity,Aktivitas User,log,0,0
+11,,student,Student,Siswa,person,0,0
+12,,teacher,Teacher,Guru,person,0,0
+13,,homeroom_teacher,Homeroom Teacher,Wali Kelas,person,0,0
+21,,semester_1,1,Semester 1,semester,0,0
+22,,semester_2,2,Semester 2,semester,0,0
+501,,full_access,full_access,Full Akses,permission_group,0,0
+502,,student,student,Siswa,permission_group,0,0
+503,,teacher,teacher,Guru,permission_group,0,0
+1001,,admin_create,admin_create,Admin - Buat,permission,0,0
+1002,,admin_read,admin_read,Admin - Lihat,permission,0,0
+1003,,admin_delete,admin_delete,Admin - Hapus,permission,0,0
+1004,,admin_access_control_create,admin_access_control_create,Admin - Tab Hak Akses,permission,0,0
+1005,,admin_full_access,admin_full_access,Admin - Full Akses,permission,0,0
+1006,,access_create,access_create,Hak Akses - Buat,permission,0,0
+1007,,access_read,access_read,Hak Akses - Lihat,permission,0,0
+1008,,access_delete,access_delete,Hak Akses - Hapus,permission,0,0
+1009,,setting_create,setting_create,Pengaturan - Buat,permission,0,0
+1010,,setting_read,setting_read,Pengaturan - Lihat,permission,0,0
+1011,,setting_delete,setting_delete,Pengaturan - Hapus,permission,0,0
+1012,,list_category_read,list_category_read,List Kategori - Lihat,permission,0,0
+1013,,student_create,student_create,Siswa - Buat,permission,0,0
+1014,,student_read,student_read,Siswa - Lihat,permission,0,0
+1015,,student_delete,student_delete,Siswa - Hapus,permission,0,0
+1016,,student_full_access,student_full_access,Siswa - Full Akses,permission,0,0
+1017,,teacher_create,teacher_create,Guru - Buat,permission,0,0
+1018,,teacher_read,teacher_read,Guru - Lihat,permission,0,0
+1019,,teacher_delete,teacher_delete,Guru - Hapus,permission,0,0
+1020,,teacher_full_access,teacher_full_access,Guru - Full Akses,permission,0,0
+1021,,homeroom_teacher_create,homeroom_teacher_create,Wali Kelas - Buat,permission,0,0
+1022,,homeroom_teacher_read,homeroom_teacher_read,Wali Kelas - Lihat,permission,0,0
+1023,,homeroom_teacher_delete,homeroom_teacher_delete,Wali Kelas - Hapus,permission,0,0
+1024,,homeroom_teacher_full_access,homeroom_teacher_full_access,Wali Kelas - Full Akses,permission,0,0
+1025,,category_lesson_read,category_lesson_read,Mata Pelajaran - Lihat,permission,0,0
+1026,,category_lesson_create,category_lesson_create,Mata Pelajaran - Buat,permission,0,0
+1027,,category_lesson_delete,category_lesson_delete,Mata Pelajaran - Hapus,permission,0,0
+1028,,category_major_read,category_major_read,Jurusan - Lihat,permission,0,0
+1029,,category_major_create,category_major_create,Jurusan - Buat,permission,0,0
+1030,,category_major_delete,category_major_delete,Jurusan - Hapus,permission,0,0
+1031,,category_class_read,category_class_read,Kelas - Lihat,permission,0,0
+1032,,category_class_create,category_class_create,Kelas - Buat,permission,0,0
+1033,,category_class_delete,category_class_delete,Kelas - Hapus,permission,0,0
+1034,,report_value_create,report_value_create,Nilai Raport - Buat,permission,0,0
+1035,,report_value_read,report_value_read,Nilai Raport - Lihat,permission,0,0
+1036,,report_value_delete,report_value_delete,Nilai Raport - Hapus,permission,0,0
+1037,,report_value_full_access,report_value_full_access,Nilai Raport - Full Akses,permission,0,0
+1038,,report_report_value_read,report_report_value_read,Report Nilai Raport - Lihat,permission,0,0
+1039,,report_report_value_full_access,report_report_value_full_access,Report Nilai Raport - Full Akses,permission,0,0
+3000,,__delimiter_3,DELIMITER,Supaya data baru akan masuk ke 3001,DELIMITER,0,0

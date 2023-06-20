@@ -1,0 +1,9 @@
+HAK_AKSES,PERMISSION
+Teacher,teacher_create
+Teacher,teacher_read
+Teacher,admin_read
+Teacher,report_value_create
+Teacher,report_value_read
+Teacher,report_value_delete
+Teacher,report_report_value_read
+Teacher,report_report_value_full_access
